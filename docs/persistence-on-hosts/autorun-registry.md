@@ -1,2 +1,0 @@
-# AutoRun - Registry
-

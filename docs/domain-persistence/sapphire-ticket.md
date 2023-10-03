@@ -1,2 +1,0 @@
-# 🫐 Sapphire Ticket
-

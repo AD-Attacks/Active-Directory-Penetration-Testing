@@ -1,2 +1,0 @@
-# WDAC (Device Guard)
-

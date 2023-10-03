@@ -1,2 +1,0 @@
-# 🤏 SQL Server Database Links
-

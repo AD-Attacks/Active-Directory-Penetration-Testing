@@ -1,2 +1,0 @@
-# Abuse MSSQL Servers
-

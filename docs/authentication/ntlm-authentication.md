@@ -1,2 +1,0 @@
-# NTLM authentication
-
