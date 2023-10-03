@@ -18,6 +18,7 @@ By understanding these weaknesses, we can work towards enhancing the overall sec
 
 * [PowerSCCM](https://github.com/PowerShellMafia/PowerSCCM)
 * [MalSCCM](https://github.com/nettitude/MalSCCM)
+* ## [SCCMHunter](https://github.com/garrettfoster13/sccmhunter#sccmhunter) <a href="#user-content-sccmhunter" id="user-content-sccmhunter"></a>
 
 ### SCCM Deployment
 
