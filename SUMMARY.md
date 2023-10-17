@@ -91,6 +91,8 @@
   * [WDAC (Device Guard)](bypass-ad-restrictions/constrained-language-mode-clm/wdac-device-guard.md)
 * [🟢 Windows Defender Antivirus](bypass-ad-restrictions/windows-defender-antivirus.md)
 * [Windows Defender Firewall](bypass-ad-restrictions/windows-defender-firewall.md)
+* [ETW Block](bypass-ad-restrictions/etw-block.md)
+* [UAC Bypass](bypass-ad-restrictions/uac-bypass.md)
 
 ## 4⃣ Privilege Escalation on Hosts
 
