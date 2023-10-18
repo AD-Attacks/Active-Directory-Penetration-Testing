@@ -127,7 +127,7 @@
 * [Abusing Exchange](domain-privilege-escalation/abusing-exchange.md)
 * [NTLM Relay](domain-privilege-escalation/ntlm-relay.md)
 * [LLMNR/NBNS](domain-privilege-escalation/llmnr-nbns.md)
-* [Insecure ACLs](domain-privilege-escalation/insecure-acls.md)
+* [Abusing ACLs](domain-privilege-escalation/insecure-acls.md)
 * [Insecure GPOs & OUs](domain-privilege-escalation/insecure-gpos-and-ous.md)
 
 ## AD Attacks
