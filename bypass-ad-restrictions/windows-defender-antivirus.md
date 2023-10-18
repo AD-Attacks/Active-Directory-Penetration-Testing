@@ -4,6 +4,10 @@ description: Byapss Windows Defender Antivirus
 
 # 🟢 Windows Defender Antivirus
 
+```
+C:\rfs> sc query windefend
+```
+
 ### Check status of Defender
 
 ```

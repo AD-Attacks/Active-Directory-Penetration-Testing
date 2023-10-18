@@ -1,10 +1,11 @@
-# Windows Defender Firewall
+# Windows Firewall
 
 ### List firewall state and current configuration
 
 ```
 netsh firewall show state
 netsh firewall show config
+netsh advfirewall show allprofiles
 ```
 
 ### List the firewall's blocked ports
