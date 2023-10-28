@@ -34,7 +34,7 @@ Join the Discord Community
 
 I Have a lot more, I have juice everywhere - trust me you will love it!
 
-
+{% embed url="https://cli-ck.me/htb-pro-labs" %}
 
 {% @mailchimp/mailchimpSubscribe %}
 
