@@ -16,12 +16,12 @@
 
 ## Tools
 
-* [🔥 MimiKatz](http://127.0.0.1:5000/o/at4Z0L3dsguKUukMngZV/s/cbnALD5rjriVxasC0ruB/)
+* [🔥 MimiKatz](https://app.gitbook.com/o/at4Z0L3dsguKUukMngZV/s/cbnALD5rjriVxasC0ruB/)
 * [SessionGopher](tools/sessiongopher.md)
 * [CredSniper](tools/credsniper.md)
-* [CrackMapExec](http://127.0.0.1:5000/o/at4Z0L3dsguKUukMngZV/s/r6sr4IFbONbbv0banxcV/)
-* [GhostPack](http://127.0.0.1:5000/o/at4Z0L3dsguKUukMngZV/s/mwuwhEigTztuU2UomZPe/)
-* [BloodHound](http://127.0.0.1:5000/o/at4Z0L3dsguKUukMngZV/s/kb2cdcxV9okTn0dsUfDV/)
+* [CrackMapExec](https://app.gitbook.com/o/at4Z0L3dsguKUukMngZV/s/r6sr4IFbONbbv0banxcV/)
+* [GhostPack](https://app.gitbook.com/o/at4Z0L3dsguKUukMngZV/s/mwuwhEigTztuU2UomZPe/)
+* [BloodHound](https://app.gitbook.com/o/at4Z0L3dsguKUukMngZV/s/kb2cdcxV9okTn0dsUfDV/)
 * [AD Labs](tools/ad-labs.md)
 
 ## 🍎 Web Tools
@@ -64,7 +64,7 @@
 ## 2⃣ Initial Access
 
 * [Passwords Spraying](initial-access/passwords-spraying.md)
-* [Social Engineering](http://127.0.0.1:5000/o/at4Z0L3dsguKUukMngZV/s/qvUpgD44cekscG0hfdLg/)
+* [Social Engineering](https://app.gitbook.com/o/at4Z0L3dsguKUukMngZV/s/qvUpgD44cekscG0hfdLg/)
 * [Wireless](initial-access/wireless.md)
 * [Devices](initial-access/devices.md)
 

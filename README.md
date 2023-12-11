@@ -3,7 +3,7 @@ description: >-
   Introduction to Active Directory Penetration Testing by RFS. Learn how to
   conquer Enterprise Domains.
 cover: .gitbook/assets/Active-Directory-Attacks.png
-coverY: 0
+coverY: -91.53292361720807
 layout:
   cover:
     visible: true
