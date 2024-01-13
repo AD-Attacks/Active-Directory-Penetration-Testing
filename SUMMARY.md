@@ -132,6 +132,7 @@
 
 ## AD Attacks
 
+* [🔥 Windows Exploits](ad-attacks/windows-exploits.md)
 * [DFSCoerce](ad-attacks/dfscoerce.md)
 * [🔥 PetitPotam](ad-attacks/petitpotam.md)
 * [MS14-068 Checksum Validation](ad-attacks/ms14-068-checksum-validation.md)
