@@ -117,7 +117,7 @@
 ## 6⃣ Domain Privilege Escalation
 
 * [DNSAdmins](domain-privilege-escalation/dnsadmins.md)
-* [Kerberoasting](domain-privilege-escalation/kerberoasting.md)
+* [🟢 Kerberoasting](domain-privilege-escalation/kerberoasting.md)
 * [Kerberos Delegation](domain-privilege-escalation/kerberos-delegation/README.md)
   * [🟢 Unconstrained Delegation](domain-privilege-escalation/kerberos-delegation/unconstrained-delegation.md)
   * [🟢 Constrained Delegation](domain-privilege-escalation/kerberos-delegation/constrained-delegation.md)
