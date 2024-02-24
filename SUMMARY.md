@@ -1,6 +1,6 @@
 # Table of contents
 
-* [☠ Introduction](README.md)
+* [☠️ Introduction](README.md)
 * [Author](https://www.linkedin.com/in/ruben-silva85/)
 
 ## 😇 Learn Active Directory
