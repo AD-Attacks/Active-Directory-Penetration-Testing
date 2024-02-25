@@ -1,5 +1,11 @@
 # 🟢 Constrained Delegation
 
+#### Explaining Constrained Delegation with Rubeus
+
+Constrained Delegation is a security concept within Active Directory environments that allows designated services to request access to other services on behalf of a user. Rubeus, a powerful tool for Kerberos interaction and abuse, facilitates the exploitation and demonstration of this concept.
+
+1. **Acquiring a Ticket Granting Ticket (TGT):** The first step involves acquiring a TGT for a user account (`svc_with_delegation`) that has been configured with constrained delegation permissions. The command below uses the RC4 hash of the user's password to request the TGT.
+
 ### Constrained Delegation with Rubeus
 
 {% code overflow="wrap" %}
