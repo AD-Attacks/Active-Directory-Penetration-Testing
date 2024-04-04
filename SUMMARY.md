@@ -96,7 +96,7 @@
 * [UAC Bypass](bypass-ad-restrictions/uac-bypass.md)
 * [LAPS](bypass-ad-restrictions/laps.md)
 
-## 4⃣ Privilege Escalation on Hosts
+## 4️⃣ Privilege Escalation on Hosts
 
 * [🔥 Tools to PrivEsc](privilege-escalation-on-hosts/tools-to-privesc.md)
 * [WinPeas](privilege-escalation-on-hosts/winpeas.md)
