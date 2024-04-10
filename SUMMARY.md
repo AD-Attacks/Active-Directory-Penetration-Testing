@@ -68,7 +68,7 @@
 * [Wireless](initial-access/wireless.md)
 * [Devices](initial-access/devices.md)
 
-## 3⃣ Active Directory Enumeration
+## 😁 Active Directory Enumeration
 
 * [Remote](active-directory-enumeration/remote/README.md)
   * [No Credentials](active-directory-enumeration/remote/no-credentials.md)
@@ -79,6 +79,11 @@
   * [Windows CMD](active-directory-enumeration/locally/windows-cmd.md)
   * [Powershell](active-directory-enumeration/locally/powershell.md)
   * [Metasploit](active-directory-enumeration/locally/metasploit.md)
+* [Basic Enumeration](active-directory-enumeration/basic-enumeration.md)
+* [GPO Enumeration](active-directory-enumeration/gpo-enumeration.md)
+* [ACL Enumeration](active-directory-enumeration/acl-enumeration.md)
+* [Trust Enumeration](active-directory-enumeration/trust-enumeration.md)
+* [BloodHound Enumeration](active-directory-enumeration/bloodhound-enumeration.md)
 
 ## 🔥 ByPass AD Restrictions
 
@@ -113,6 +118,10 @@
 * [AutoRun - Registry](persistence-on-hosts/autorun-registry.md)
 * [🟢 Startup Folder](persistence-on-hosts/startup-folder.md)
 * [More Documentation](persistence-on-hosts/more-documentation.md)
+
+## Enumeration
+
+* [Page 1](enumeration/page-1.md)
 
 ## 6⃣ Domain Privilege Escalation
 
