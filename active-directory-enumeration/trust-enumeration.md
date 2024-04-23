@@ -14,7 +14,17 @@ coverY: 0
 | `Tree-root`    | a two-way transitive trust between a forest root domain and a new tree root domain. They are created by design when you set up a new tree root domain within a forest. |
 | `Forest`       | a transitive trust between two forest root domains.                                                                                                                    |
 
-## PowerView Enumeration
+## PowerView Trusts Enumeration
+
+Trusts can be transitive or non-transitive.
+
+* A transitive trust means that trust is extended to objects that the child domain trusts.
+* In a non-transitive trust, only the child domain itself is trusted.
+
+Trusts can be set up to be one-way or two-way (bidirectional).
+
+* In bidirectional trusts, users from both trusting domains can access resources.
+* In a one-way trust, only users in a trusted domain can access resources in a trusting domain, not vice-versa. The direction of trust is opposite to the direction of access.
 
 ### Get a list of all domain trusts for the current domain
 
