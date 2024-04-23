@@ -4,9 +4,7 @@ coverY: 0
 
 # Trust Enumeration
 
-## PowerView Enumeration
-
-There are several trust types.
+### Trust Types
 
 | **Trust Type** | **Description**                                                                                                                                                        |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,6 +13,8 @@ There are several trust types.
 | `External`     | A non-transitive trust between two separate domains in separate forests which are not already joined by a forest trust. This type of trust utilizes SID filtering.     |
 | `Tree-root`    | a two-way transitive trust between a forest root domain and a new tree root domain. They are created by design when you set up a new tree root domain within a forest. |
 | `Forest`       | a transitive trust between two forest root domains.                                                                                                                    |
+
+## PowerView Enumeration
 
 ### Get a list of all domain trusts for the current domain
 
